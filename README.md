@@ -1,4 +1,4 @@
-# test8403.github.io
+# pictofight.github.io
 throwing game website
 
 draw lines and throw em
